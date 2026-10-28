@@ -1,0 +1,8 @@
+google-cloud-aiplatform>=1.144.0
+google-auth>=2.26.0
+google-adk>=2.0.0
+pydantic>=2.0.0
+fastapi>=0.110.0
+httpx>=0.27.0
+anyio
+uvicorn
